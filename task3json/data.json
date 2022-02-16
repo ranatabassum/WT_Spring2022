@@ -1,0 +1,43 @@
+[
+    {
+        "firstName": "qsdgsq",
+        "lastName": "wwfdgw",
+        "age": "60",
+	    "designation":"Senior Programmer",
+	    "preferredLanguage":"JAVA ",
+        "email": "dfds",
+	    "password":"krtgfrgajrei"
+	      
+    },
+    {
+        "firstName": "fgqq",
+        "lastName": "wrtfww",
+        "age": "25",
+	    "designation":"Project Lead",
+	    "preferredLanguage":"JAVA ",
+        "email": "ddeed",
+	    "password":"tgjrei"
+	      
+    },
+    {
+        "firstName": "grg",
+        "lastName": "rrgv",
+        "age": "55",
+	    "designation":"Senior Programmer",
+	    "preferredLanguage":"JAVA ",
+        "email": "dwe4td",
+	    "password":"krtgthaejrei"
+	      
+    },
+    {
+        "firstName": "ghf",
+        "lastName": "dgs",
+        "age": "85",
+	    "designation":"Senior Programmer",
+	    "preferredLanguage":"PHP ",
+        "email": "dghd",
+	    "password":"krtgghsdjrei"
+	      
+    }
+
+]
