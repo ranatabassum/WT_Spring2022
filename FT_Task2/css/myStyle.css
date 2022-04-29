@@ -1,0 +1,38 @@
+#labels
+{
+    color:rgb(1, 1, 1);
+    font-size: 20px;
+    font-style: oblique;
+
+}
+
+#box
+{
+    width: 1000px;
+    border: 10px solid rgb(6, 6, 65);
+    padding: 80px;
+    margin: 30px;
+}
+
+.button
+{
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 2px;
+    width: 80px;
+}
+.submitbutton
+{
+    background-color: rgb(53, 199, 94);
+    color:white;
+}
+.resetbutton
+{
+    background-color: rgb(200, 37, 37);
+    color:rgb(255, 255, 255);
+}
+
+#myrelativeposition
+{
+    position: relative;
+    top: 30px;
+}
